@@ -9,3 +9,5 @@ Run IP address in VM to get IP
 $ ssh -X ryu@192.168.56.101   
 
 psswd newpwd
+
+rm /run/nologin
