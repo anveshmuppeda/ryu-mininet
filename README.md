@@ -34,3 +34,6 @@ rm /run/nologin
 - On mininet run: sudo python topology.py
 
 - Launch DDoS attacks as decribed in youtube videos and see results.
+
+
+refernece: https://github.com/anveshmuppeda/sdn-network-ddos-detection-using-machine-learning
